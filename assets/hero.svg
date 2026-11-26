@@ -6791,7 +6791,7 @@ text{font:12px ui-monospace,Menlo,Consolas,monospace}
   <text class="lab" x="60" y="48">stardust.v1</text>
   <text class="lab" x="1000" y="48">9.97°N 76.28°E</text>
   <text x="60" y="496" textLength="66" lengthAdjust="spacing" fill="#9a9a9a" clip-path="url(#c0)">$ whoami</text>
-  <text x="60" y="520" font-size="36" textLength="141" lengthAdjust="spacing" fill="#e8e8e8" clip-path="url(#c1)">&gt; Gouri Nanda K G</text>
+  <text x="60" y="520" font-size="90" textLength="141" lengthAdjust="spacing" fill="#e8e8e8" clip-path="url(#c1)">&gt; Gouri Nanda K G</text>
   <text x="60" y="544" textLength="365" lengthAdjust="spacing" fill="#9a9a9a" clip-path="url(#c2)">&gt; CSE(AI) STUDENT AT MITS,KOCHI</text>
   <rect class="cur" x="433" y="534" width="7" height="13" fill="#e8e8e8"/>
   <metadata>
