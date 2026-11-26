@@ -3,6 +3,19 @@
 <img src="./assets/hero.svg" alt="Animated stardust sky: stars twinkle and dust drifts outward on load" width="100%">
 
 </div>
+<div align="center">
+
+  <h2>Gouri Nanda K G</h2>
+
+  <p>
+    CSE (AI) student at MITS Kochi
+    <br><br>
+    I enjoy learning new things, exploring technology
+    and building projects along the way.
+    <br>
+  </p>
+
+</div>
 
 <br>
 
