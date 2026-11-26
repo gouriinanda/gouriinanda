@@ -3,7 +3,7 @@
 <img src="./assets/hero.svg" alt="Animated stardust sky: stars twinkle and dust drifts outward on load" width="100%">
 
 </div>
-<div align="center">
+
 
   <h2>Gouri Nanda K G</h2>
 
@@ -15,7 +15,6 @@
     <br>
   </p>
 
-</div>
 
 <br>
 
