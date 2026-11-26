@@ -19,7 +19,7 @@ text{font:12px ui-monospace,Menlo,Consolas,monospace}
       <rect class="ty" x="60" y="481" width="66" height="22" style="animation-delay:3.2s;animation-duration:0.36s;animation-timing-function:steps(8)"/>
     </clipPath>
     <clipPath id="c1">
-      <rect class="ty" x="60" y="505" width="300" height="38" style="animation-delay:4.35s;animation-duration:0.77s;animation-timing-function:steps(17)"/>
+      <rect class="ty" x="60" y="505" width="500" height="58" style="animation-delay:4.35s;animation-duration:0.77s;animation-timing-function:steps(17)"/>
     </clipPath>
     <clipPath id="c2">
       <rect class="ty" x="60" y="529" width="365" height="22" style="animation-delay:5.5s;animation-duration:1.98s;animation-timing-function:steps(44)"/>
