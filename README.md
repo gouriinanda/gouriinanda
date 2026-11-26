@@ -6,10 +6,7 @@
 <h2>Gouri Nanda K G</h2>
 
 <p>
-  CSE (AI) student at MITS Kochi
-  <br>
-  I enjoy learning new things, exploring technology,
-  and building projects along the way.
+  I enjoy learning new things, exploring technology and building projects along the way.
 </p>
 
 <br>
