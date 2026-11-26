@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" role="img" aria-labelledby="title desc">
+  <title id="title">Gouri's tech stack</title>
+  <desc id="desc">A minimal black terminal-style tech stack panel with muted gray labels and blue accents.</desc>
+  <rect width="1200" height="310" fill="#000"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1">
+    <path d="M40 40H1160"/>
+    <path d="M40 270H1160"/>
+    <rect x="40" y="40" width="9" height="9" stroke="#555" stroke-width=".8"/>
+    <rect x="1151" y="261" width="9" height="9" stroke="#555" stroke-width=".8"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="60" y="75" font-size="11" letter-spacing="2.4" fill="#666">STACK / 01</text>
+    <text x="1140" y="75" text-anchor="end" font-size="11" letter-spacing="2" fill="#666">TECHNOLOGIES</text>
+
+    <text x="60" y="123" font-size="13" letter-spacing="1.6" fill="#666">LANGUAGES</text>
+    <text x="260" y="123" font-size="17" fill="#e8e8e8">Python <tspan fill="#1f4fff">·</tspan> C++ <tspan fill="#1f4fff">·</tspan> Java <tspan fill="#1f4fff">·</tspan> HTML <tspan fill="#1f4fff">·</tspan> CSS <tspan fill="#1f4fff">·</tspan> JavaScript</text>
+
+    <text x="60" y="171" font-size="13" letter-spacing="1.6" fill="#666">FRAMEWORKS</text>
+    <text x="260" y="171" font-size="17" fill="#e8e8e8">Flask <tspan fill="#1f4fff">·</tspan> Spring Boot <tspan fill="#1f4fff">·</tspan> MERN</text>
+
+    <text x="60" y="219" font-size="13" letter-spacing="1.6" fill="#666">TOOLS</text>
+    <text x="260" y="219" font-size="17" fill="#e8e8e8">Git <tspan fill="#1f4fff">·</tspan> GitHub <tspan fill="#1f4fff">·</tspan> VSCode</text>
+
+    <text x="60" y="247" font-size="10" letter-spacing="1.7" fill="#555">LEARNING BY BUILDING</text>
+    <text x="1140" y="247" text-anchor="end" font-size="10" letter-spacing="1.7" fill="#555">GOURI / CSE (AI)</text>
+  </g>
+</svg>
