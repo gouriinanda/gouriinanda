@@ -19,7 +19,7 @@ text{font:12px ui-monospace,Menlo,Consolas,monospace}
       <rect class="ty" x="60" y="481" width="66" height="22" style="animation-delay:3.2s;animation-duration:0.36s;animation-timing-function:steps(8)"/>
     </clipPath>
     <clipPath id="c1">
-      <rect class="ty" x="60" y="505" width="220" height="22" style="animation-delay:4.35s;animation-duration:0.77s;animation-timing-function:steps(17)"/>
+      <rect class="ty" x="60" y="505" width="300" height="38" style="animation-delay:4.35s;animation-duration:0.77s;animation-timing-function:steps(17)"/>
     </clipPath>
     <clipPath id="c2">
       <rect class="ty" x="60" y="529" width="365" height="22" style="animation-delay:5.5s;animation-duration:1.98s;animation-timing-function:steps(44)"/>
@@ -6791,7 +6791,7 @@ text{font:12px ui-monospace,Menlo,Consolas,monospace}
   <text class="lab" x="60" y="48">stardust.v1</text>
   <text class="lab" x="1000" y="48">9.97°N 76.28°E</text>
   <text x="60" y="496" textLength="66" lengthAdjust="spacing" fill="#9a9a9a" clip-path="url(#c0)">$ whoami</text>
-  <text x="60" y="520" textLength="141" lengthAdjust="spacing" fill="#e8e8e8" clip-path="url(#c1)">&gt; Gouri Nanda K G</text>
+  <text x="60" y="520" font-size="32" font-weight="600" textLength="141" lengthAdjust="spacing" fill="#e8e8e8" clip-path="url(#c1)">&gt; Gouri Nanda K G</text>
   <text x="60" y="544" textLength="365" lengthAdjust="spacing" fill="#9a9a9a" clip-path="url(#c2)">&gt; Computer Science (Artificial Intelligence)</text>
   <rect class="cur" x="433" y="534" width="7" height="13" fill="#e8e8e8"/>
   <metadata>
